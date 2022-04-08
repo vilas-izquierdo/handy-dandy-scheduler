@@ -14,11 +14,11 @@ If the time of day has already passed the section will be grey.
 If it is currently within the hour, the section will be red.
 If the time has not yet come, it will be green.
 
-<img src="./assets/images/coding.png">
+<img src="./assets/images/screenshot.png">
 
 ## Links
 
 
-<a href="https://vilas-izquierdo.github.io/the-coding-quiz/">Deployed Page</a>
+<a href="hhttps://vilas-izquierdo.github.io/handy-dandy-scheduler/">Deployed Page</a>
 
-<a href="https://github.com/vilas-izquierdo/the-coding-quiz">GitHub</a>
+<a href="https://github.com/vilas-izquierdo/handy-dandy-scheduler">GitHub</a>
