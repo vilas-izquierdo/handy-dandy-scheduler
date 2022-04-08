@@ -19,6 +19,6 @@ If the time has not yet come, it will be green.
 ## Links
 
 
-<a href="hhttps://vilas-izquierdo.github.io/handy-dandy-scheduler/">Deployed Page</a>
+<a href="https://vilas-izquierdo.github.io/handy-dandy-scheduler/">Deployed Page</a>
 
 <a href="https://github.com/vilas-izquierdo/handy-dandy-scheduler">GitHub</a>
